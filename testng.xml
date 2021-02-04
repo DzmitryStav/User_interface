@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/QA/QaAutomation-1/user_interface/src/test/java">
+        <classes>
+            <class name="tests.UserinyerfaceTests">
+                <methods>
+                    <include name="testCase1"/>
+                    <include name="testCase2"/>
+                    <include name="testCase3"/>
+                    <include name="testCase4"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
