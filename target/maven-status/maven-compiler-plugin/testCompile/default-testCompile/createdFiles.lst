@@ -1,7 +1,0 @@
-utils\URLMaker.class
-messages\AssertMessages.class
-tests\BaseTest.class
-tests\TestCase.class
-messages\ExpectedResults.class
-pages\MainPage.class
-utils\TestDataProvider.class
