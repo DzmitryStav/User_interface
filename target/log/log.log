@@ -1,0 +1,16 @@
+2021-02-03 20:20:26 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-02-03 20:20:26 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-02-03 20:20:27 DEBUG - Set '60' timeout in seconds for loading of pages
+2021-02-03 20:20:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-02-03 20:20:27 INFO  - Browser 'CHROME' ready...
+2021-02-03 20:20:28 INFO  - Maximizing browser window
+2021-02-03 20:20:28 INFO  - Waiting for page to load
+2021-02-03 20:20:28 INFO  - Navigate to url - 'http://user:passwd@httpbin.org/basic-auth/user/passwd'
+2021-02-03 20:20:29 INFO  - Label 'ResultFromPage' :: Getting text from element
+2021-02-03 20:20:29 INFO  - Label 'ResultFromPage' :: Element's text: [{
+  "authenticated": true, 
+  "user": "user"
+}]
+2021-02-03 20:20:29 INFO  - Closing browser
